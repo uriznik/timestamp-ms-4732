@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/uriznik/timestamp-ms-4732/issues"
   },
-  "homepage": "https://github.com/uriznik/timestamp-ms-4732#readme"
+  "homepage": "https://github.com/uriznik/timestamp-ms-4732#readme",
+  "dependencies" : {
+  "express": "latest"
+  }
 }
