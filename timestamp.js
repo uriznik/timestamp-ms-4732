@@ -1,6 +1,8 @@
 var express = require('express');
 var app = express();
 
+var port = 80;
+
 app.get('/:date', function (req, res) {
 	var date = new Date(req.params.date);
 	var timestamp = {unix: null, natural: null};
@@ -13,4 +15,4 @@ app.get('/:date', function (req, res) {
 	res.send(timestamp);
 });
 
-app.listen(8080);
+app.listen(port);
