@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-ms-4732",
+  "version": "0.0.1",
+  "description": "timestamp microservice fcc",
+  "main": "timestamp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uriznik/timestamp-ms-4732.git"
+  },
+  "author": "uriznik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uriznik/timestamp-ms-4732/issues"
+  },
+  "homepage": "https://github.com/uriznik/timestamp-ms-4732#readme"
+}
